@@ -1,2 +1,5 @@
 create file week1
+<<<<<<< HEAD
 thuộc brank week1 mà thôi
+=======
+thuộc branch week1
